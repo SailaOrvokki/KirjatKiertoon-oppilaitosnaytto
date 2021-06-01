@@ -11,6 +11,14 @@ Näyttö sisältö kattaa
 
 Kaikki näyttöihin liittyvät materiaalit tulevat löytymään täältä.
 
-KirjatKiertoon_dokumentit osasta löytyvä linkki_lista.txt tiedostossa on listaus apuna käytettyjä sivuja.
+KirjatKiertoon_suunnittelu/.-kansiossa sijaitsee
+	./KirjatKiertoon_dokumentit-kansiossa on suunnittelun aikaiset dokumentit
+	./KirjatKiertoon_kaaviot-kansiosta löytyy suunnittelun aikaiset kaaviot
+	.KirjatKiertoon_koodit/tyyli-kansiossa on sivustolle suunnitelu tyylitiedosto
+
+KirjatKiertoon_tuotanto/.-kansiossa sijaitsee julkaistava sivu
+
+Dokumentit-kansiossa on muuta näyttöön liittyvää dokumentointia.
+
 
 Cobyright SailaOrvokki
