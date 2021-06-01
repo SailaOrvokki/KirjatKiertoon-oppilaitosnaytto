@@ -1,0 +1,20 @@
+KirjatKiertoonNäytössä apuna käytettyjä sivuja:
+
+- https://bootstrapshuffle.com/classes/navbar/navbar-brand
+
+HTML sisältö:
+- https://developer.mozilla.org/en-US/docs/Web/HTML
+
+HTML elementtit:
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+HTML elementtien määrittelyt:
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+
+HTML elementtien globaalit määrittelyt:
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes
+
+CSS tyylit:
+- https://developer.mozilla.org/en-US/docs/Web/CSS
+
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
